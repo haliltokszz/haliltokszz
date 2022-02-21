@@ -23,7 +23,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/haliltokszz/haliltokszz/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="https://www.linkedin.com/in/halil-toks%C3%B6z-2b634317b/" target="_blank" rel="nofollow"><img alt="Halil's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  📫 How to reach me: <a href="https://www.linkedin.com/in/halil-toks%C3%B6z-2b634317b/" target="_blank" rel="nofollow">Linkedin</a>
 </p>
 
 Contact me via these platforms!
@@ -35,7 +35,7 @@ Contact me via these platforms!
 
 ### Languages
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?&logo=c-sharp)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
