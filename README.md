@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/haliltokszz?style=social)](https://github.com/haliltokszz?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/haliltokszz?style=social)
-[![Github visitors](https://api.visitorbadge.io/api/VisitorHit?user=haliltokszz&repo=github-visitors-badge&countColor=%237B1E7A)
+![Github visitors](https://api.visitorbadge.io/api/VisitorHit?user=haliltokszz&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
