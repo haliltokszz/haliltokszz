@@ -35,7 +35,7 @@ Contact me via these platforms!
 
 ### Languages
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?&logo=c-sharp)
+![C#](https://img.shields.io/badge/c%23-%23239120?&logo=c-sharp)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
