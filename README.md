@@ -31,7 +31,7 @@ Contact me via these platforms!
 <a href="https://www.instagram.com/halil.toksozz/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img> </a>
 <a href="https://www.linkedin.com/in/halil-toks%C3%B6z-2b634317b/" target="_blank" rel="nofollow"><img alt="Halil's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:toksozhalil@gmail.com" target="_blank" rel="nofollow"><img alt="Halil's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/toksozhalil" title="HackerRank Profile"><img alt="Halil's Hackerrank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> HackerRank</a>
+<a href="https://www.hackerrank.com/toksozhalil" title="HackerRank Profile"><img alt="Halil's Hackerrank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 
 ### Languages
 
