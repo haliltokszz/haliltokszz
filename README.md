@@ -17,7 +17,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning React.js
+  📚 I’m currently learning Cloud Development & Computing
   <br>
   🥅 2022 Goals: Learn more about web3 and blockchain
   <br>
