@@ -8,10 +8,10 @@
   </a>
 </h1>
 
-# Hi 👋 I'm Halil Toksöz! Computer Engineer & Software Developer from Turkey
+# Hi 👋 I'm Halil Toksöz! Computer Engineer & Fullstack Software Developer from Turkey
 
 <p align="center">
-  🔬 I'm currently working at Siskon Software & Automation Company
+  🔬 I'm currently working at Forwardie Company
   <br>
   🎓 I graduated from Izmir Bakırçay University Computer Engineering Department
   <br>
@@ -19,7 +19,7 @@
   <br>
   📚 I’m currently learning Cloud Development & Computing
   <br>
-  🥅 2022 Goals: Learn more about web3 and blockchain
+  🥅 2023 Goals: Learn more about web3 and blockchain
   <br>
   💬 Ask me anything about from <a href="https://github.com/haliltokszz/haliltokszz/issues" title="Issues">Here</a>
   <br>
